@@ -23,3 +23,7 @@ Things you may want to cover:
 
 * ...
 # Rails-Chat-App
+## Setup
+Make sure to run ruby version 3.2.0
+
+        /bin/bash --login && rvm use 3.2.0
